@@ -1,5 +1,3 @@
-# Drifty_shifty
-
 This script was created to help process images especially those taken using microscopy over an extended period of time. This script encompasses 3 different processes:
 1)  focus stacking,
 2)  XY drift correction, and
